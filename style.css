@@ -4,9 +4,7 @@ body{
   padding: 20px;
   background-color: #f3a2bd;
   line-height: 1.8;
-  border-style:solid;
-  border-size: 4px;
-  border-color: #6f79c3;}
+ }
 
 *{
   margin: 0;
